@@ -17,8 +17,6 @@
 - 📫 How to reach me **piotr.bogaczyk@icloud.com**
 
 - ⚡ Fun fact **I have more experience in playing piano than programming**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
